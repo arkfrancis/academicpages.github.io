@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+This page is under construction. A list of my publications can be found <a href="http://staff.scem.uws.edu.au/~andrew/pubs/index.html">here</a>, or on my Google Scholar profile linked to the left.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
