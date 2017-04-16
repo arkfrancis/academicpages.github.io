@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Andrew Francis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Professor of Mathematics and Director of the Centre for Research in Mathematics."
   location         : "Sydney, Australia"
-  employer         : 
+  employer         : "Western Sydney University"
   googlescholar    : "https://scholar.google.com.au/citations?user=zGAdnBkAAAAJ&hl=en"
-  email            : 
+  email            : "a.francis@westernsydney.edu.au"
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9938-3499"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
