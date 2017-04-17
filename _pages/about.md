@@ -10,22 +10,14 @@ redirect_from:
 
 This is a personal academic website, currently under construction (as is hopefully obvious).
 
-Brief academic bio
-======
-
-Pre-history
----
-When I started a science degree at the University of Sydney in 1990, after taking a year off from study, I did not know which direction I would be taking, at that stage thinking that perhaps I might train as a vet.  But I had always loves maths, and discovered another joy in philosophy, and persevered with those to finish up with an honours degree in Pure Mathematics.  I followed one of my lecturers, Jie Du, to UNSW to do a PhD with him on Iwahori-Hecke algebras; a topic that linked very nicely with my honours work on braid groups at Sydney (with Jonathan Hillman).
-
-My thesis work on centres of Hecke algebras, submitted in early 1998, was enough to scrape me into a postdoc at the University of Virginia, working with Leonard Scott, where I spent two great years.  I was tremendously lucky then to land a tenure-track job at the young University of Western Sydney, and started there in mid-2000.
-
-Western Sydney and the transition into biology
----
-
 
 
 Research
 ======
+
+My research covers a broad range of areas; a result of following my nose and the opportunities to work with interesting people. I especially like using things I know about from algebra, such as finite reflection groups, to solve problems in other areas, such as biology and statistics.  But I also enjoy the challenge of solving problems by "whatever means necessary", whether the solutions end up using group theory or not.
+
+I will post more of my research story elsewhere on this site.
 
 Other interests
 ======
