@@ -27,4 +27,4 @@ My transition from straight algebra to more applied work is due to Mark Tanaka. 
 
 Testing image:
 
-![research evolution][files/career-map.jpg]
+![research evolution][career-map.jpg]
