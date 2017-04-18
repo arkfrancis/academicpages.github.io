@@ -5,11 +5,10 @@ permalink: /researchstory/
 author_profile: true
 ---
 
-This page is under construction. 
 
-
-Brief academic bio
+<!-- Brief academic bio
 ======
+ -->
 
 Pre-history
 ---
