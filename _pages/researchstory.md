@@ -25,6 +25,5 @@ I came back to Sydney and started work at Blacktown in the western suburbs.  Two
 My transition from straight algebra to more applied work is due to Mark Tanaka.  I think the human, serendipitous aspect of science and academic life is deeply understood by many but not spoken of enough.  Or perhaps it is. What is enough?  But anyway, I started working on biology after Mark introduced me to a problem in epidemiology at a BBQ (and it wasn't about salmonella in the chicken kebabs).  Since then my research has branched into a range of programmes in biology, including genome organisation and phylogenetics alongside epidemiology, and I have also dabbled in statistical theory.
 
 
-Testing image:
-
+Career map:
 ![research evolution](../images/career-map.jpg)
